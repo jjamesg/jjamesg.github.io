@@ -1,3 +1,7 @@
 .thing {
-  color : #F00;
+  color : red;
+}
+
+body {
+  font-size : 4px;
 }
