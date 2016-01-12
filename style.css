@@ -6,14 +6,14 @@ body {
   width: 100%;
   height: 100%;
   text-align: center !important;
+  position: relative;
 }
 header {
   font-size: 20px;
   padding: 20px;
   font-weight: 600;
-  cursor: default !important;
   position: relative;
-  z-index: 1;
+  z-index: 2;
 }
 .space {
   height: 50px;
@@ -25,17 +25,18 @@ button {
 button:hover {
   text-decoration: none;
   color: #5cc1a9 !important;
-  cursor: link;
+  cursor: pointer;
 }
 button:focus {
   outline: 0 !important;
 }
 .top_white {
-  height: 60px;
+  height: 65px;
   width: 100%;
   background: #fff;
   position: fixed;
   top: 0;
+  z-index: 1;
   text-align: left;
 }
 #name {
@@ -50,7 +51,7 @@ button:focus {
 .menu {
   padding: 12px;
   position: relative;
-  z-index: 1;
+  z-index: 2;
 }
 .menu button {
   font-size: 15px;
@@ -73,7 +74,43 @@ button:focus {
   top: 0;
   width: 100%;
   position: fixed;
+  z-index: 2;
 }
-.container {
+.things {
   height: 2000px;
+  text-align: left;
+  padding: 5%;
+  position: relative;
+  z-index: 0;
+  text-align: center;
+}
+.thing {
+  margin: 0 auto;
+  width: 100%;
+  padding: 5%;
+  margin-top: 10%;
+  position: relative;
+}
+.thing :hover .descript {
+  max-height: 40%;
+}
+.thing_img {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.descript {
+  background: rgba(255,255,255,0.8);
+  color: #000;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  max-height: 0px;
+  overflow: hidden;
+  font-size: 120%;
+  transition-property: max-height;
+  transition-duration: 1s;
 }
