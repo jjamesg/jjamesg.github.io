@@ -5,7 +5,7 @@ $(document).ready(function() {
       name: 'Tic Tac Toe',
       thumb: 'http://i.imgur.com/GdMggzr.png',
       description: '<br>Tic Tac Toe game.<br><br>',
-      link: 'jjames.me/things/tictactoe/'
+      link: 'things/tictactoe/'
     },
     {
       name: 'thing2',
