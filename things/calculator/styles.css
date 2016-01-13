@@ -1,0 +1,29 @@
+html{
+  text-align: center;
+}
+
+.outerbox{
+  border: 1px solid #888;
+  margin-top: 5%;
+  width: 200px;
+  padding: 1%;
+  margin: 5% auto;
+}
+
+.display{
+  text-align: right;
+  border: 1px solid #888;
+  width: 163px !important;
+  padding: 2px;
+  margin: 5px
+}
+
+
+
+button{
+  background: #FFF;
+  border: 1px solid #BBB !important ;
+  width: 38px;
+  height: 38px;
+  margin-bottom: 3px !important;
+}
