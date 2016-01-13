@@ -3,7 +3,7 @@ $(document).ready(function() {
   var things = [
     {
       name: 'Tic Tac Toe',
-      thumb: 'http://i.imgur.com/GdMggzr.png',
+      thumb: 'http://i.imgur.com/WO0gIcG.png',
       description: '<br>Tic Tac Toe game.<br><br>',
       link: 'things/tictactoe/'
     },
