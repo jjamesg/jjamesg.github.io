@@ -1,0 +1,63 @@
+body, html{
+  height: 100%;
+  font-family: Montserrat
+}
+
+h1{
+  font-size: 50px;
+  background: rgba(256, 256, 256, .5)
+}
+.cont{
+  text-align: center;
+ height:100%;
+  width: 100%;
+  max-width: 1500px;
+
+}
+
+.temperature{
+  color: white;
+  font-size: 40px;
+  font-weight: 700;
+  background: rgba(50, 50, 50, .5);
+  width: 150px;
+  margin: auto;
+}
+
+.box {
+  color: white;
+  font-size: 25px;
+  font-weight:700;
+  padding: 1%;
+  width: 250px;
+  height: 60px;
+  margin: 1em auto;
+  background: rgba(50, 50, 50, .5);
+}
+
+.tempIcon{
+  padding-top: 2%;
+}
+
+#inp-box{
+  text-align: center;
+  width: 0;
+  border: 0px;
+  transition: 1s;
+  text-align: left;
+}
+
+#go{
+  background: rgba(0,0,0,0);
+  color: rgba(0,0,0,0);
+  cursor: default;
+  transition: 1s;
+}
+
+#location{
+  width: 150px;
+}
+
+#convert{
+  width: 150px;
+}
