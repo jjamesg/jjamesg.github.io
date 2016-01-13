@@ -26,6 +26,12 @@ $(document).ready(function() {
       link: '/things/pomodoro'
     },
     {
+      name: 'this site',
+      thumb: 'http://i.imgur.com/OMCaLDO.png',
+      description: '<br>This site.<br><br>',
+      link: 'http://jjames.me'
+    },
+    {
       name: 'thing4',
       thumb: 'https://www.petfinder.com/wp-content/uploads/2012/11/140272627-grooming-needs-senior-cat-632x475.jpg',
       description: '<br>cat.<br><br>',
