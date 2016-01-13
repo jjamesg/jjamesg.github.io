@@ -5,7 +5,7 @@ $(document).ready(function() {
       name: 'Tic Tac Toe',
       thumb: 'http://i.imgur.com/WO0gIcG.png',
       description: '<br>Tic Tac Toe game.<br><br>',
-      link: 'things/tictactoe/'
+      link: '/things/tictactoe/'
     },
     {
       name: 'Old fashion calculator.',
@@ -72,17 +72,16 @@ $(document).ready(function() {
     
   var menuPos = $('.menu').offset().top;
   
-
   $(window).scroll(function(){
     if ($(window).scrollTop() > menuPos){
       $('.menu_holder').addClass('fixed');
-      $('#name').css('top', '0px');
-      $('.things').css('top', '63px');
+      $('#name').css('color', 'rgba(0,0,0,1)');
+      $('.space2').css('height', '103px');
     }
     else {
       $('.menu_holder').removeClass('fixed');
-      $('#name').css('top', '-50px');
-      $('.things').css('top', '0px');
+      $('#name').css('color', 'rgba(0,0,0,0)');
+      $('.space2').css('height', '40px');
 
     }
 
