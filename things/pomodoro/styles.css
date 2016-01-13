@@ -1,0 +1,26 @@
+body{
+  font-size: 40px;
+  text-align: center;
+  background: #ddd
+}
+
+h1{
+  font-size: 50px;
+}
+
+.time-box{
+  background: #999;
+  width: 50%;
+  margin: auto;
+  padding: 2%;
+  border-radius: 20px
+  
+}
+
+.time-btn{
+  font-size: 100px;
+}
+
+#info{
+  font-size:16px;
+}
