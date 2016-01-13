@@ -8,10 +8,10 @@ $(document).ready(function() {
       link: 'things/tictactoe/'
     },
     {
-      name: 'thing2',
-      thumb: 'https://www.petfinder.com/wp-content/uploads/2012/11/140272627-grooming-needs-senior-cat-632x475.jpg',
-      description: '<br>cat.<br><br>',
-      link: 'cats.com'
+      name: 'Old fashion calculator.',
+      thumb: 'http://i.imgur.com/9KmP6Uv.png',
+      description: '<br>Old fashion calculator.<br><br>',
+      link: '/things/calculator/'
     },
     {
       name: 'thing3',
