@@ -1,5 +1,3 @@
-console.log('---')
-
 var memory = '0';
 tMem = 0;
 deepMem = [];
@@ -31,7 +29,7 @@ $('button').click(function() {
     }
     else {
       parSwitch = false;
-      $('#par').css('background', '#FFF');
+      $('#par').css('background', '#eee');
       display = eval(memory + op + display);
       memory = deepMem[0];
       op = deepMem[1];
@@ -71,7 +69,7 @@ $('button').click(function() {
 
   if (x == 'CE') {     
     parSwitch = false;
-    $('#par').css('background', '#FFF');
+    $('#par').css('background', '#eee');
     clear();
   }
   
