@@ -1,3 +1,5 @@
+console.log('---')
+
 var memory = '0';
 tMem = 0;
 deepMem = [];
