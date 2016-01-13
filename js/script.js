@@ -14,10 +14,10 @@ $(document).ready(function() {
       link: '/things/calculator/'
     },
     {
-      name: 'thing3',
-      thumb: '',
-      description: '<br>cat.<br><br>',
-      link: 'cats.com'
+      name: 'weather',
+      thumb: 'http://i.imgur.com/aabp7uE.png',
+      description: '<br>Weather app.<br><br>',
+      link: '/things/weather'
     },
     {
       name: 'thing4',
