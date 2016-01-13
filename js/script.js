@@ -9,7 +9,7 @@ $(document).ready(function() {
     },
     {
       name: 'Old fashion calculator.',
-      thumb: 'http://i.imgur.com/9KmP6Uv.png',
+      thumb: 'http://i.imgur.com/uw8AR3l.png',
       description: '<br>Old fashion calculator.<br><br>',
       link: '/things/calculator/'
     },
