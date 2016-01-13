@@ -20,6 +20,12 @@ $(document).ready(function() {
       link: '/things/weather'
     },
     {
+      name: 'pomodoro',
+      thumb: 'http://i.imgur.com/k7j0HJs.png',
+      description: '<br>Pomodoro clock.<br><br>',
+      link: '/things/pomodoro'
+    },
+    {
       name: 'thing4',
       thumb: 'https://www.petfinder.com/wp-content/uploads/2012/11/140272627-grooming-needs-senior-cat-632x475.jpg',
       description: '<br>cat.<br><br>',
