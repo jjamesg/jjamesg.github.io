@@ -21,7 +21,7 @@ $(document).ready(function() {
     },
     {
       name: 'pomodoro',
-      thumb: 'http://i.imgur.com/k7j0HJs.png',
+      thumb: 'http://i.imgur.com/7g6ZoRs.png?1',
       description: '<br>Pomodoro clock.<br><br>',
       link: '/things/pomodoro'
     },
