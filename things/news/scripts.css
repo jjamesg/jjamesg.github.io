@@ -1,0 +1,45 @@
+body{
+  background : #1d2b35;
+  color : #1d2b35;
+  font-size: 20px;
+  padding: 0% 3%
+}
+
+
+.container {
+  padding: 0% 1%;
+  border-radius: 10px;
+  margin-top: 2%;
+  background : #85c8f4;
+}
+
+h1 {
+  display: inline;
+  font-size : 50px;
+  color: #eee
+}
+
+h3{
+  display: inline;
+  float: right;
+  color: #eee;
+}
+
+.story{
+  position: relative;
+}
+
+.story{
+  position: relative;
+}
+
+.story .title{
+  display: inline;
+  position: relative;
+  top: -30px !important;
+  
+}
+
+a {
+   color: #2b1a10 !important;
+}
