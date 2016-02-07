@@ -2,6 +2,12 @@ $(document).ready(function() {
   
   var things = [
     {
+      name: 'Shortnr',
+      thumb: '/images/shrt.png',
+      description: '<br>URL shortener<br><br>',
+      link: 'https://shrtner.herokuapp.com/'
+    },
+    {
       name: 'Tic Tac Toe',
       thumb: 'http://i.imgur.com/WO0gIcG.png',
       description: '<br>Tic Tac Toe game.<br><br>',
@@ -43,13 +49,7 @@ $(document).ready(function() {
       thumb: 'https://www.petfinder.com/wp-content/uploads/2012/11/140272627-grooming-needs-senior-cat-632x475.jpg',
       description: '<br>cat.<br><br>',
       link: 'cats.com'
-    },
-    {
-      name: 'thing6',
-      thumb: 'https://www.petfinder.com/wp-content/uploads/2012/11/140272627-grooming-needs-senior-cat-632x475.jpg',
-      description: '<br>cat.<br><br>',
-      link: 'cats.com'
-    },
+    }
   ]
   
   $('#home').addClass('menu_highlight');
