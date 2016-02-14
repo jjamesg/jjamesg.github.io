@@ -5,7 +5,7 @@ $(document).ready(function() {
       name: 'Shortnr',
       thumb: '/images/shrt.png',
       description: '<br>URL shortener<br><br>',
-      link: 'https://shrtner.herokuapp.com/'
+      link: 'http://shrtner.herokuapp.com/'
     },
     {
       name: 'Tic Tac Toe',

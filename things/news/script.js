@@ -1,6 +1,6 @@
 $(document).ready(function() {
   
-  $.get('http://www.freecodecamp.com/news/hot', function(data){
+  $.get('https://www.freecodecamp.com/news/hot', function(data){
         
     data.forEach(function(story){
       
