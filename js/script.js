@@ -2,6 +2,12 @@ $(document).ready(function() {
   
   var things = [
     {
+      name: 'Poller',
+      thumb: '/images/poller-thumb.png',
+      description: '<br>Poll creater<br><br>',
+      link: 'https://pollerx.herokuapp.com/'
+    },
+    {
       name: 'Shortnr',
       thumb: '/images/shrt.png',
       description: '<br>URL shortener<br><br>',
