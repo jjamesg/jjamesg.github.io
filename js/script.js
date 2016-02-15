@@ -14,16 +14,16 @@ $(document).ready(function() {
       link: 'http://shrtner.herokuapp.com/'
     },
     {
-      name: 'Tic Tac Toe',
-      thumb: 'http://i.imgur.com/WO0gIcG.png',
-      description: '<br>Tic Tac Toe game.<br><br>',
-      link: '/things/tictactoe/'
-    },
-    {
       name: 'weather',
       thumb: 'http://i.imgur.com/aabp7uE.png',
       description: '<br>Weather app.<br><br>',
       link: '/things/weather'
+    },
+    {
+      name: 'Tic Tac Toe',
+      thumb: 'http://i.imgur.com/WO0gIcG.png',
+      description: '<br>Tic Tac Toe game.<br><br>',
+      link: '/things/tictactoe/'
     },
     {
       name: 'Old fashion calculator.',
