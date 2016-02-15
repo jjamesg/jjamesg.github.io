@@ -40,7 +40,7 @@ $(document).ready(function() {
     {
       name: 'news',
       thumb: 'http://i.imgur.com/EzIfvK4.png',
-      description: '<br>FreeCodeCamp.com news reader.<br><br>',
+      description: '<br>News reader.<br><br>',
       link: '/things/news'
     },
     {
