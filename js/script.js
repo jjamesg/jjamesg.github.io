@@ -20,16 +20,16 @@ $(document).ready(function() {
       link: '/things/tictactoe/'
     },
     {
-      name: 'Old fashion calculator.',
-      thumb: 'http://i.imgur.com/uw8AR3l.png',
-      description: '<br>Old fashion calculator.<br><br>',
-      link: '/things/calculator/'
-    },
-    {
       name: 'weather',
       thumb: 'http://i.imgur.com/aabp7uE.png',
       description: '<br>Weather app.<br><br>',
       link: '/things/weather'
+    },
+    {
+      name: 'Old fashion calculator.',
+      thumb: 'http://i.imgur.com/uw8AR3l.png',
+      description: '<br>Old fashion calculator.<br><br>',
+      link: '/things/calculator/'
     },
     {
       name: 'pomodoro',
@@ -49,13 +49,6 @@ $(document).ready(function() {
       description: '<br>This site.<br><br>',
       link: 'http://jjames.me'
     },
-    
-    {
-      name: 'thing5',
-      thumb: 'https://www.petfinder.com/wp-content/uploads/2012/11/140272627-grooming-needs-senior-cat-632x475.jpg',
-      description: '<br>cat.<br><br>',
-      link: 'cats.com'
-    }
   ]
   
   $('#home').addClass('menu_highlight');
