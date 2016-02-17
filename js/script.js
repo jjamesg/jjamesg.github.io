@@ -31,6 +31,7 @@ $(document).ready(function() {
       description: '<br>Old fashion calculator.<br><br>',
       link: '/things/calculator/'
     },
+    /*
     {
       name: 'pomodoro',
       thumb: 'http://i.imgur.com/7g6ZoRs.png?1',
@@ -43,6 +44,7 @@ $(document).ready(function() {
       description: '<br>News reader.<br><br>',
       link: '/things/news'
     },
+    */
     {
       name: 'this site',
       thumb: 'http://i.imgur.com/OMCaLDO.png',
