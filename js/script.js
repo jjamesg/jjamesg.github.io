@@ -5,7 +5,7 @@ $(document).ready(function() {
       name: 'Poller',
       thumb: '/images/poller-thumb.png',
       description: '<br>Poll creater<br><br>',
-      link: 'https://pollerx.herokuapp.com/'
+      link: 'https://pollerq.herokuapp.com/'
     },
     {
       name: 'Shortnr',
