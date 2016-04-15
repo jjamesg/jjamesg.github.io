@@ -2,9 +2,15 @@ $(document).ready(function() {
   
   var things = [
     {
-      name: 'Poller',
+      name: 'Poller (ASP.NET)',
+      thumb: '/images/pollaspthumb.png',
+      description: '<br>Poll creater (ASP.NET)<br><br>',
+      link: 'http://pollerx.azurewebsites.net'
+    },
+    {
+      name: 'Poller (Node.js)',
       thumb: '/images/poller-thumb.png',
-      description: '<br>Poll creater<br><br>',
+      description: '<br>Poll creater (Node.js)<br><br>',
       link: 'https://pollerq.herokuapp.com/'
     },
     {
@@ -31,6 +37,7 @@ $(document).ready(function() {
       description: '<br>Old fashion calculator.<br><br>',
       link: '/things/calculator/'
     },
+
     /*
     {
       name: 'pomodoro',
