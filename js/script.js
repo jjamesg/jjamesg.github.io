@@ -31,14 +31,14 @@ $(document).ready(function() {
       description: '<br>Tic Tac Toe game.<br><br>',
       link: '/things/tictactoe/'
     },
-    {
+    /*{
       name: 'Old fashion calculator.',
       thumb: 'http://i.imgur.com/uw8AR3l.png',
       description: '<br>Old fashion calculator.<br><br>',
       link: '/things/calculator/'
     },
 
-    /*
+    
     {
       name: 'pomodoro',
       thumb: 'http://i.imgur.com/7g6ZoRs.png?1',
