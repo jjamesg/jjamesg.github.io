@@ -4,31 +4,31 @@ $(document).ready(function() {
     {
       name: 'Poller (ASP.NET)',
       thumb: '/images/pollaspthumb.png',
-      description: '<br>Poll creater (ASP.NET)<br><br>',
+      description: '<br>Poll creater - C#/ASP.NET<br><br>',
       link: 'http://pollerx.azurewebsites.net'
     },
     {
       name: 'Poller (Node.js)',
       thumb: '/images/poller-thumb.png',
-      description: '<br>Poll creater (Node.js)<br><br>',
+      description: '<br>Poll creater - MongoDB/Express/React/Node)<br><br>',
       link: 'https://pollerq.herokuapp.com/'
     },
     {
       name: 'Shortnr',
       thumb: '/images/shrt.png',
-      description: '<br>URL shortener<br><br>',
+      description: '<br>URL shortener - MongoDB/Express/Node<br><br>',
       link: 'http://shrtner.herokuapp.com/'
     },
     {
       name: 'weather',
       thumb: 'http://i.imgur.com/aabp7uE.png',
-      description: '<br>Weather app.<br><br>',
+      description: '<br>Weather app - JavaScript<br><br>',
       link: '/things/weather'
     },
     {
       name: 'Tic Tac Toe',
       thumb: 'http://i.imgur.com/WO0gIcG.png',
-      description: '<br>Tic Tac Toe game.<br><br>',
+      description: '<br>Tic Tac Toe game - JavaScript<br><br>',
       link: '/things/tictactoe/'
     },
     /*{
@@ -55,7 +55,7 @@ $(document).ready(function() {
     {
       name: 'this site',
       thumb: 'http://i.imgur.com/OMCaLDO.png',
-      description: '<br>This site.<br><br>',
+      description: '<br>This site - JavaScript<br><br>',
       link: 'http://jjames.me'
     },
   ]
