@@ -16,7 +16,7 @@ $(document).ready(function() {
     {
       name: 'Shortnr',
       thumb: '/images/shrt.png',
-      description: '<br>URL shortener - MongoDB/Express/Node<br><br>',
+      description: '<br>URL shortener - Mongo/Express/Node<br><br>',
       link: 'http://shrtner.herokuapp.com/'
     },
     {
