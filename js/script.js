@@ -10,7 +10,7 @@ $(document).ready(function() {
     {
       name: 'Poller (Node.js)',
       thumb: '/images/poller-thumb.png',
-      description: '<br>Poll creater - Mongo/Express/React/Node)<br><br>',
+      description: '<br>Poll creater - Mongo/Express/React/Node<br><br>',
       link: 'https://pollerq.herokuapp.com/'
     },
     {
